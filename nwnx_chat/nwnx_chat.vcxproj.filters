@@ -507,4 +507,9 @@
       <Filter>NWSERVER</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\madchook\lib\madCHook.lib">
+      <Filter>Header Files</Filter>
+    </Library>
+  </ItemGroup>
 </Project>
